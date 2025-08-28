@@ -22,4 +22,4 @@
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/AsmadChiaJeniferDarlyn/LoginSem4.git
+   git clone https://github.com/DarlynZen/login-basico-android.git
